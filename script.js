@@ -17,8 +17,8 @@ var APPS = {
     'Fortnite': {title: 'Fortnite', path: 'script/Apps/Fortnite/index.html', icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShiXrQ-cvZeDyQNPIZCv_hsaUCAe5j_rXJ7Q&s', pinned: false},
     'RocketL': {title: 'Rocket League', path: 'script/Apps/RocketL/index.html', icon: 'https://ygo-assets-entities-us.yougov.net/87bb7a16-2b62-11e8-82b1-37bb0d207ced.jpg?zcw=518&zch=518&zct=10&zcl=0', pinned: false},
     'Xbox': {title: 'Xbox', path: 'script/Apps/Xbox/index.html', icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRknRQh-WRK4F75YB3EAlfrsqAk66Xjn45sBg&s', pinned: false},
-    'cloudmoon': {title: 'CloudMoon', path: 'script/Apps/CloudMoon/index.html', icon: 'https://www.google.com/s2/favicons?domain=cloudmoonapp.com&sz=64', pinned: false},
-    
+        'cloudmoon': {title: 'CloudMoon', path: 'script/Apps/CloudMoon/index.html', icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPxbNXXh3IFcqF_Nfy96JOQSXBb-u5XrwUL-i_Picb3w&s=10', pinned: false},
+    'stellar': {title: 'Stellar', path: 'script/Apps/Stellar/index.html', icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalgXPzMxBhgY3OuIbVuw9ru-muzn1_Q0LePGIwFaKFxvQU4ipPUXVmrk&s=10', pinned: false},
 };
 
 var savedPins = localStorage.getItem('c_pins_v2');
